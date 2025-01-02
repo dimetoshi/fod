@@ -239,7 +239,7 @@ const ProfileGrid = () => {
           className="w-full h-full object-cover sm:hidden"
         />
         <img 
-          src="https://doge-memes.b-cdn.net/FOD/hero.jpg"
+          src="https://doge-memes.b-cdn.net/doge-fod-hero-3_1-1.jpg"
           alt="DOGE Hero"
           className="hidden sm:block w-full h-full object-cover"
         />
