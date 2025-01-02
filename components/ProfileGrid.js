@@ -234,9 +234,9 @@ const ProfileGrid = () => {
     <div className="w-full">
       <div className="w-full aspect-video relative mb-8">
         <img 
-          src="ttps://doge-memes.b-cdn.net/Article%20Images/doge-fod-hero.jpg"
+          src="https://doge-memes.b-cdn.net/hero.png"
           alt="DOGE Hero"
-          className="w-full h-128 object-cover"
+          className="w-full h-full object-cover"
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-8">
