@@ -234,7 +234,7 @@ const ProfileGrid = () => {
     <div className="w-full">
       <div className="w-full h-96 relative mb-8">
         <img 
-          src="https://doge-memes.b-cdn.net/hero.png"
+          src="https://doge-memes.b-cdn.net/Article%20Images/doge-fod-hero.jpg"
           alt="DOGE Hero"
           className="w-full h-full object-cover"
         />
