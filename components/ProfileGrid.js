@@ -236,7 +236,7 @@ const ProfileGrid = () => {
         <img 
           src="https://doge-memes.b-cdn.net/hero.png"
           alt="DOGE Hero"
-          className="w-full h-128 object-cover"
+          className="w-full h-256 object-cover"
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-8">
