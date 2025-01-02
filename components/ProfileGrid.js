@@ -232,11 +232,16 @@ const ProfileGrid = () => {
 
   return (
     <div className="w-full">
-      <div className="w-full aspect-[3/1] relative">
+      <div className="w-full aspect-[3/2] sm:aspect-[3/1] relative">
         <img 
-          src="https://doge-memes.b-cdn.net/doge-fod-hero-3_1-1.jpg"
+          src="https://doge-memes.b-cdn.net/doge-fod-mobile-hero.jpg"
           alt="DOGE Hero"
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover sm:hidden"
+        />
+        <img 
+          src="https://doge-memes.b-cdn.net/FOD/hero.jpg"
+          alt="DOGE Hero"
+          className="hidden sm:block w-full h-full object-cover"
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-8">
