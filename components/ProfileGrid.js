@@ -232,6 +232,13 @@ const ProfileGrid = () => {
 
   return (
     <div className="w-full">
+      <div className="w-full aspect-[3/1] relative">
+        <img 
+          src="https://doge-memes.b-cdn.net/doge-fod-hero-3_1.jpg"
+          alt="DOGE Hero"
+          className="w-full h-full object-cover"
+        />
+      </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-8">
         {profiles.map((profile, index) => (
           <ProfileCard key={index} {...profile} />
