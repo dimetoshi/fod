@@ -107,7 +107,7 @@ const ProfileGrid = () => {
       title: "co-founder uber",
       handle: "@travisk",
       description: "Travis Kalanick, born 1976, co-founded Uber and is now CEO of City Storage Systems. Known for his disruptive approach, he's involved in the Department of Government Efficiency (DOGE), where he helps strategize ways to increase operational efficiency and reduce federal spending under Musk and Ramaswamy.",
-      imageUrl: "https://doge-memes.b-cdn.net/FOD/Travis%20Kalanick.png"
+      imageUrl: "https://doge-memes.b-cdn.net/FOD/doge-travis.jpg"
     },
     {
       name: "Brian Armstrong",
