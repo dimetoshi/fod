@@ -54,6 +54,13 @@ const ProfileGrid = () => {
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Vivek%20Ramaswamy.png"
     },
     {
+      name: "Javier Milei",
+      title: "President of Argentina",
+      handle: "@JMilei",
+      description: "Javier Milei, born 1970, is Argentina's President and an anarcho-capitalist economist. His aggressive budget cuts and government restructuring inspired the U.S. Department of Government Efficiency (DOGE), where he advised Elon Musk and Vivek Ramaswamy on reducing bureaucracy and government waste.",
+      imageUrl: "https://doge-memes.b-cdn.net/FOD/Javier%20Milei.png"
+    },
+    {
       name: "Ron Paul",
       title: "Dr.",
       handle: "@RonPaul",
@@ -220,13 +227,6 @@ const ProfileGrid = () => {
       handle: "@BasedMikeLee",
       description: "Mike Lee, a U.S. Senator from Utah since 2011, is known for his conservative stance and advocacy for limited government. He has recently endorsed Elon Musk and Vivek Ramaswamy, who are set to lead the Department of Government Efficiency under the Trump administration, focusing on reducing federal spending and bureaucracy",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Mike%20Lee.png"
-    },
-    {
-      name: "Javier Milei",
-      title: "President of Argentina",
-      handle: "@JMilei",
-      description: "Javier Milei, born 1970, is Argentina's President and an anarcho-capitalist economist. His aggressive budget cuts and government restructuring inspired the U.S. Department of Government Efficiency (DOGE), where he advised Elon Musk and Vivek Ramaswamy on reducing bureaucracy and government waste.",
-      imageUrl: "https://doge-memes.b-cdn.net/FOD/Javier%20Milei.png"
     },
   ];
 
