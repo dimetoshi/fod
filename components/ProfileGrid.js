@@ -159,71 +159,71 @@ const ProfileGrid = () => {
       imageUrl: "https://doge-memes.b-cdn.net/FOD/James%20Lankford.png"
     },
     {
-      name: "Ted cruz",
-      title: "senator",
+      name: "Ted Cruz",
+      title: "U.S Senator",
       handle: "@tedcruz",
       description: "Ted Cruz, born in 1970 in Calgary, Canada, is a U.S. Senator from Texas since 2013. A conservative Republican, he's known for his 2016 presidential run. Cruz has advocated for government efficiency, notably through proposed legislation to reduce federal bureaucracy, aligning with the Department of Government Efficiency's mission.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Ted%20Cruz.png"
     },
     {
       name: "Thomas Massie",
-      title: "Representative",
+      title: "U.S Representative",
       handle: "@RepThomaMassie",
       description: "Thomas Massie, a Republican from Kentucky, serves as U.S. Representative for the 4th district since 2012. An MIT-educated engineer, farmer, and inventor, he's known for libertarian leanings, advocating for limited government. He's involved with the proposed Department of Government Efficiency (DOGE) to slash bureaucracy under Trump's administration.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Thomas%20Massie.png"
     },
     {
       name: "John Cornyn",
-      title: "Senator",
+      title: "U.S Senator",
       handle: "@JohnCornyn",
       description: "John Cornyn, a Republican Senator from Texas since 2002, previously served as the state's Attorney General and on the Texas Supreme Court. He joined the Senate DOGE Caucus, aiming to enhance government efficiency with the Trump administration's Department of Government Efficiency (DOGE) to cut waste and reduce national debt.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/John%20Cornyn.png"
     },
     {
       name: "Aaron Bean",
-      title: "Senator",
+      title: "U.S Senator",
       handle: "@RepAaronBean",
       description: "Aaron Bean, born January 25, 1967, is a U.S. Representative for Florida's 4th district since 2023. A Republican, he previously served in Florida's Senate and House. He co-founded the Delivering Outstanding Government Efficiency (DOGE) Caucus to support efforts to reduce government waste and improve efficiency.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Aaron%20Bean.png"
     },
     {
-      name: "Joni ernst",
-      title: "Senator",
+      name: "Joni Ernst",
+      title: "U.S Senator",
       handle: "@joniernst",
       description: "Joni Ernst, a U.S. Senator from Iowa, is the first woman to represent the state in Congress and a former combat veteran. As the chair of the Senate's Department of Government Efficiency (DOGE) Caucus, she works with Elon Musk and Vivek Ramaswamy to cut government waste and enhance efficiency.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Joni%20Ernst.png"
     },
     {
       name: "Jared Moskowitz",
-      title: "demacrat",
+      title: "U.S Representative",
       handle: "@JEMoskowitz",
       description: "Jared Moskowitz, a Florida Democrat, serves as U.S. Representative for Florida's 23rd district since 2023. He has a background in state politics and emergency management. Moskowitz joined the Department of Government Efficiency (DOGE) caucus, advocating for streamlining government processes and reducing ineffective spending.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Jared%20Moskowitz.png"
     },
     {
       name: "Blake Moore",
-      title: "",
+      title: "U.S Representative",
       handle: "@RepBlakeMoore",
       description: "Blake Moore, born in Ogden, Utah, is a U.S. Representative for Utah's 1st district. He serves as co-chair of the Delivering Outstanding Government Efficiency (DOGE) Caucus, working with Elon Musk and Vivek Ramaswamy to cut federal spending and enhance government efficiency under President-elect Donald Trump's initiative.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Blake%20Moore.png"
     },
     {
       name: "Ron Estes",
-      title: "",
+      title: "U.S Representative",
       handle: "@RepRonEstes",
       description: "Ron Estes, a fifth-generation Kansan, represents Kansas's 4th District in the U.S. House since 2017. An engineer by trade, he has a background in business and public service, previously serving as Kansas State Treasurer. He supports the \"Department of Government Efficiency\" as part of his advocacy for fiscal responsibility and government streamlining.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Ron%20Estes.png"
     },
     {
-      name: "MarjorieTaylor Greene",
-      title: "republican",
+      name: "Marjorie Taylor Greene",
+      title: "U.S Representative",
       handle: "@RepMTG",
       description: "Marjorie Taylor Greene, a U.S. Representative for Georgia's 14th district, is known for her far-right views. She has been appointed to chair a House subcommittee on government efficiency, collaborating with Elon Musk and Vivek Ramaswamy to streamline the U.S. government under President-elect Trump's directive.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/MarjorieTaylor%20Greene.png"
     },
     {
       name: "Mike Lee",
-      title: "",
+      title: "U.S Senator",
       handle: "@BasedMikeLee",
       description: "Mike Lee, a U.S. Senator from Utah since 2011, is known for his conservative stance and advocacy for limited government. He has recently endorsed Elon Musk and Vivek Ramaswamy, who are set to lead the Department of Government Efficiency under the Trump administration, focusing on reducing federal spending and bureaucracy",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Mike%20Lee.png"
