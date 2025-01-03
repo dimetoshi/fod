@@ -90,7 +90,7 @@ const ProfileGrid = () => {
     },
     {
       name: "Bill Ackman",
-      title: "CEO",
+      title: "Founder & CEO",
       handle: "@BillAckman",
       description: "Bill Ackman, born 1966, is a billionaire hedge fund manager who founded Pershing Square Capital. He's expressed interest in joining Elon Musk's Department of Government Efficiency (DOGE) under Trump to cut federal spending and improve efficiency. Ackman sees this as an opportunity to help streamline government operations.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Bill%20Ackman.png"
@@ -104,14 +104,14 @@ const ProfileGrid = () => {
     },
     {
       name: "Joe Rogan",
-      title: "",
+      title: "Podcaster and Commentator",
       handle: "@joerogan",
       description: "Joe Rogan, born August 11, 1967, is an American podcaster, UFC commentator, comedian, and actor, known for \"The Joe Rogan Experience.\" He's proposed Elon Musk's involvement in a \"Department of Government Efficiency\" (DOGE) to streamline government spending, advocating for Musk's success in private sector efficiency over government projects.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Joe%20Rogan.png"
     },
     {
       name: "Travis Kalanick",
-      title: "co-founder uber",
+      title: "Co-founder of Uber",
       handle: "@travisk",
       description: "Travis Kalanick, born 1976, co-founded Uber and is now CEO of City Storage Systems. Known for his disruptive approach, he's involved in the Department of Government Efficiency (DOGE), where he helps strategize ways to increase operational efficiency and reduce federal spending under Musk and Ramaswamy.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/doge-travis.jpg"
@@ -124,15 +124,15 @@ const ProfileGrid = () => {
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Brian%20Armstrong.png"
     },
     {
-      name: "Jamie dimon",
-      title: "CEO JPmorgan",
+      name: "Jamie Dimon",
+      title: "CEO of JPmorgan",
       handle: "",
       description: "Jamie Dimon, born 1956, is CEO of JPMorgan Chase. He endorsed the idea for the Department of Government Efficiency (DOGE), proposed by Elon Musk, calling it a \"very good idea.\" Dimon hasn't been appointed to DOGE but supports its goals for government efficiency and competence.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Jamie%20Dimon.png"
     },
     {
       name: "Rand Paul",
-      title: "",
+      title: "U.S Senator",
       handle: "@RandPaul",
       description: "Rand Paul, born 1963, is a U.S. Senator from Kentucky, following in his father Ron Paul's libertarian footsteps. He assists the Department of Government Efficiency (DOGE) by providing legislative support and oversight, aiming for a leaner government, in line with DOGE's mission to conclude by July 4, 2026.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Rand%20Paul.png"
