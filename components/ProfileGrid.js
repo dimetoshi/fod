@@ -139,21 +139,21 @@ const ProfileGrid = () => {
     },
     {
       name: "Rick Scott",
-      title: "",
+      title: "United States Senator",
       handle: "@ScottforFlorida",
       description: "Rick Scott, a Republican from Florida, served as the state's governor (2011-2019) before becoming a U.S. Senator in 2019. Known for his business background, he supports the proposed Department of Government Efficiency (DOGE), advocating for streamlined government operations and reduced spending, drawing from his experience in reducing state regulations.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Rick%20Scott.png"
     },
     {
       name: "Ro Khanna",
-      title: "House, Republican",
+      title: "U.S. Representative",
       handle: "@RoKhanna",
       description: "Ro Khanna, a U.S. Representative for California's 17th district since 2017, is known for his progressive stance. He has shown interest in collaborating with Elon Musk and Vivek Ramaswamy's Department of Government Efficiency (DOGE) to reduce government waste, aiming to enhance the efficiency of federal spending.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Ro%20Khanna.png"
     },
     {
       name: "James Lankford",
-      title: "U.S senator",
+      title: "U.S Senator",
       handle: "@senatorLankford",
       description: "James Lankford, born 1968 in Dallas, is a U.S. Senator from Oklahoma since 2015, previously serving in the House. A Republican, he's known for his fiscal conservatism. He's linked to the Department of Government Efficiency (DOGE), advocating for government waste reduction and fiscal responsibility.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/James%20Lankford.png"
