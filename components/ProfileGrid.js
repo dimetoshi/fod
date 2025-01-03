@@ -34,7 +34,7 @@ const ProfileGrid = () => {
   const profiles = [
     {
       name: "Donald Trump",
-      title: "President America",
+      title: "U.S. President",
       handle: "@realDonaldTrump",
       description: "Donald Trump, born 1946, became the 45th U.S. President in 2017 and was re-elected in 2024. He initiated the Department of Government Efficiency (DOGE), led by Elon Musk and Vivek Ramaswamy, to reduce bureaucracy, cut spending, and streamline federal agencies. Their work concludes by July 4, 2026.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Donald%20Trump.png"
@@ -43,12 +43,12 @@ const ProfileGrid = () => {
       name: "Elon Musk",
       title: "Entepreneur",
       handle: "@elonmusk",
-      description: "Elon Musk, born 1971, is CEO of Tesla, SpaceX, and X Corp. He's a key figure in technology and space industries. In the Department of Government Efficiency (DOGE), Musk co-leads with Vivek Ramaswamy, aiming to dismantle bureaucracy, cut waste, and restructure federal agencies by July 4, 2026.",
+      description: "Elon Musk, born 1971, CEO of Tesla, SpaceX, and X Corp. He's a key figure in technology and space industries. In the Department of Government Efficiency (DOGE), Musk co-leads with Vivek Ramaswamy, aiming to dismantle bureaucracy, cut waste, and restructure federal agencies by July 4, 2026.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Musk.png"
     },
     {
       name: "Vivek Ramaswamy",
-      title: "CEO of strive asset management",
+      title: "CEO of Strive Asset Management",
       handle: "@VivekGRamaswamy",
       description: "Vivek Ramaswamy, born 1985, founded Roivant Sciences and ran for the 2024 Republican presidential nomination. After endorsing Trump, he was appointed to co-lead the Department of Government Efficiency (DOGE) with Elon Musk. Their mission is to reduce federal bureaucracy and spending, concluding by July 4, 2026.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Vivek%20Ramaswamy.png"
@@ -57,7 +57,7 @@ const ProfileGrid = () => {
       name: "Javier Milei",
       title: "President of Argentina",
       handle: "@JMilei",
-      description: "Javier Milei, born 1970, is Argentina's President and an anarcho-capitalist economist. His aggressive budget cuts and government restructuring inspired the U.S. Department of Government Efficiency (DOGE), where he advised Elon Musk and Vivek Ramaswamy on reducing bureaucracy and government waste.",
+      description: "Javier Milei, born 1970, is President of Argentina and an anarcho-capitalist economist. His aggressive budget cuts and government restructuring inspired the U.S. Department of Government Efficiency (DOGE), where he advised Elon Musk and Vivek Ramaswamy on reducing bureaucracy and government waste.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Javier%20Milei.png"
     },
     {
@@ -69,7 +69,7 @@ const ProfileGrid = () => {
     },
     {
       name: "Howard Lutnick",
-      title: "CEO",
+      title: "CEO of Cantor Fitzgerald",
       handle: "@howardlutnick",
       description: "Howard Lutnick, born 1961, is CEO of Cantor Fitzgerald and was named U.S. Commerce Secretary. He co-chaired Trump's 2024 transition team. Although not directly involved with DOGE, his role involves working with DOGE leaders Elon Musk and Vivek Ramaswamy to balance the budget and streamline government operations.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Howard%20Lutnick.png"
