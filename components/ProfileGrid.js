@@ -76,14 +76,14 @@ const ProfileGrid = () => {
     },
     {
       name: "David Sacks",
-      title: "General Partner",
+      title: "General Partner of Craft Ventures",
       handle: "@DavidSacks",
       description: "David Sacks, born 1972, is an entrepreneur, former PayPal COO, and Craft Ventures co-founder. He's been named White House AI and crypto czar in Trump's administration. Sacks supports DOGE's mission to reduce government waste, aligning with his advocacy for less regulation, though not directly involved in DOGE's operations.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/David%20Sacks.png"
     },
     {
-      name: "chamath palihapitiya",
-      title: "CEO",
+      name: "Chamath Palihapitiya",
+      title: "CEO & Venture Capitalist",
       handle: "@chamath",
       description: "Chamath Palihapitiya, born 1976, is a venture capitalist and former senior executive at Facebook. He founded Social Capital and hosts the All-In podcast. He advocates for using DOGE to cut regulations, suggesting a flat tax could lead to an \"economic renaissance\" under Trump's administration.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/chamath%20palihapitiya.png"
