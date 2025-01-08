@@ -230,7 +230,7 @@ const ProfileGrid = () => {
     },
     {
       name: "Caitlyn Jenner",
-      title: "Olympian & U.S media personality",
+      title: "Olympian & U.S Media Personality",
       handle: "@Caitlyn_Jenner",
       description: "Olympic gold medalist and transgender advocate, ran for California governor in 2021. She proposed establishing a 'Department of Government Efficiency' (DOGE) to streamline state operations and reduce waste, emphasizing her platform on government accountability and efficiency during her campaign.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Screenshot%202025-01-08%20at%204.21.29%20pm.png"
