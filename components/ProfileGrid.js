@@ -228,6 +228,13 @@ const ProfileGrid = () => {
       description: "Mike Lee, a U.S. Senator from Utah since 2011, is known for his conservative stance and advocacy for limited government. He has recently endorsed Elon Musk and Vivek Ramaswamy, who are set to lead the Department of Government Efficiency under the Trump administration, focusing on reducing federal spending and bureaucracy",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Mike%20Lee.png"
     },
+    {
+      name: "Caitlyn Jenner",
+      title: "Olympian & U.S media personality",
+      handle: "@Caitlyn_Jenner",
+      description: "an Olympic gold medalist and transgender advocate, ran for California governor in 2021. She proposed establishing a 'Department of Government Efficiency' (DOGE) to streamline state operations and reduce waste, emphasizing her platform on government accountability and efficiency during her campaign.",
+      imageUrl: "https://doge-memes.b-cdn.net/FOD/Screenshot%202025-01-08%20at%204.21.29%20pm.png"
+    },
   ];
 
   return (
