@@ -1,34 +1,45 @@
 import React from 'react';
 
-const ProfileCard = ({ name, title, handle, description, imageUrl }) => (
-  <div className="w-full h-full px-6 py-6 bg-neutral-950 rounded-1xl border border-neutral-900 flex flex-col gap-4">
-    <div className="flex items-center">
-      <div className="flex items-center pr-4">
-        <img 
-          src={imageUrl || "/api/placeholder/123/123"} 
-          alt={name} 
-          className="w-24 h-24 rounded-full"
-        />
+const ProfileCard = ({ name, title, handle, description, imageUrl }) => {
+  const twitterHandle = handle ? handle.replace('@', '') : '';
+  
+  return (
+    <div className="w-full h-full px-6 py-6 bg-neutral-950 rounded-1xl border border-neutral-900 flex flex-col gap-4">
+      <div className="flex items-center">
+        <div className="flex items-center pr-4">
+          <img 
+            src={imageUrl || "/api/placeholder/123/123"} 
+            alt={name} 
+            className="w-24 h-24 rounded-full"
+          />
+        </div>
+        <div className="flex-1 py-4 flex flex-col justify-center gap-2">
+          <div className="text-white text-2xl font-bold font-['Oswald'] uppercase leading-6">
+            {name}
+          </div>
+          <div className="text-gray-100 text-sm font-normal font-['Inter'] leading-4">
+            {title}
+          </div>
+          {handle && (
+            <a 
+              href={`https://x.com/${twitterHandle}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-400 hover:text-blue-300 text-sm font-normal font-['Inter'] leading-4 transition-colors"
+            >
+              {handle}
+            </a>
+          )}
+        </div>
       </div>
-      <div className="flex-1 py-4 flex flex-col justify-center gap-2">
-        <div className="text-white text-2xl font-bold font-['Oswald'] uppercase leading-6">
-          {name}
-        </div>
-        <div className="text-gray-100 text-sm font-normal font-['Inter'] leading-4">
-          {title}
-        </div>
-        <div className="text-gray-400 text-sm font-normal font-['Inter'] leading-4">
-          {handle}
+      <div className="flex items-center gap-2">
+        <div className="flex-1 text-white text-[15px] font-normal font-['Inter'] leading-6">
+          {description}
         </div>
       </div>
     </div>
-    <div className="flex items-center gap-2">
-      <div className="flex-1 text-white text-[15px] font-normal font-['Inter'] leading-6">
-        {description}
-      </div>
-    </div>
-  </div>
-);
+  );
+};
 
 const ProfileGrid = () => {
   const profiles = [
@@ -45,13 +56,6 @@ const ProfileGrid = () => {
       handle: "@elonmusk",
       description: "Elon Musk, born 1971, CEO of Tesla, SpaceX, and X Corp. He's a key figure in technology and space industries. In the Department of Government Efficiency (DOGE), Musk co-leads with Vivek Ramaswamy, aiming to dismantle bureaucracy, cut waste, and restructure federal agencies by July 4, 2026.",
       imageUrl: "https://doge-memes.b-cdn.net/FOD/Musk.png"
-    },
-    {
-      name: "Vivek Ramaswamy",
-      title: "CEO of Strive Asset Management",
-      handle: "@VivekGRamaswamy",
-      description: "Vivek Ramaswamy, born 1985, founded Roivant Sciences and ran for the 2024 Republican presidential nomination. After endorsing Trump, he was appointed to co-lead the Department of Government Efficiency (DOGE) with Elon Musk. Their mission is to reduce federal bureaucracy and spending, concluding by July 4, 2026.",
-      imageUrl: "https://doge-memes.b-cdn.net/FOD/Vivek%20Ramaswamy.png"
     },
     {
       name: "Javier Milei",
