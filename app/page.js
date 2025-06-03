@@ -1,10 +1,10 @@
-import DogeGovNav from '@/components/DogeGovNav'
+import DogeGovNavWrapper from '@/components/DogeGovNavWrapper'
 import ProfileGrid from '@/components/ProfileGrid'
 
 export default function Home() {
   return (
     <>
-      <DogeGovNav />
+      <DogeGovNavWrapper />
       <main>
         <ProfileGrid />
       </main>
