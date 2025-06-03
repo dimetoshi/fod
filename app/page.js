@@ -4,7 +4,7 @@ import ProfileGrid from '@/components/ProfileGrid'
 export default function Home() {
   return (
     <>
-      <DogeGovNavWrapper />
+      <DogeGovNav /> {/* ✅ Use this */}
       <main>
         <ProfileGrid />
       </main>
