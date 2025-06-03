@@ -1,11 +1,10 @@
-// DogeGovNav.jsx
 'use client'
 
 import { useEffect } from 'react'
 
 export default function DogeGovNav() {
   useEffect(() => {
-    const DogeGovNav = require('@/components/dogegov-nav').default
+    const DogeGovNav = require('./dogegov-nav').default
     new DogeGovNav('dogegov-nav-container')
   }, [])
 
