@@ -7,7 +7,6 @@ export default function Home() {
     logoText: 'DOGEGOV',
     homeUrl: '/',
     navLinks: [
-      { text: 'Home', href: '/' },
       { text: 'Memes', href: 'https://t.me/+eB3Zaw8uKj84YjNh', target: '_blank' },
       { text: 'Buy/Trade', href: '/buy-trade' },
       { text: 'Doge Clock', href: '/dogeclock' },
