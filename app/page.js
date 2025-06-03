@@ -20,7 +20,7 @@ export default function Home() {
 
   return (
     <main>
-      <DogeGovNavComponent options={navOptions} />
+      {/* <DogeGovNavComponent options={navOptions} /> */}
       <ProfileGrid />
     </main>
   )
